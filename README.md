@@ -44,13 +44,12 @@
 ### 📫 Let's Connect
 
 - 📩 Email: [kagankazanci16@gmail.com](mailto:kagankazanci16@gmail.com)  
-### - 💼 [LinkedIn](.....)  
 
 ---
 
 ### 📊 LeetCode Stats
 
-### ![Leetcode Stats](https://leetcard.jacoblin.cool/user4150sX?theme=dark&font=Ubuntu&ext=heatmap)
+### ![Leetcode Stats](https://leetcard.jacoblin.cool/kagankazanci?theme=dark&font=Smooch%20Sans)
 
 ---
 
