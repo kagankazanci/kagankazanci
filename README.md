@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-- 🎓 Graduated with honors from METU with a GPA of 3.56  
+- 🎓 I'm on the robotics team at my school. 
 - 🤖 I won 3rd place in the **Robochallenge** competition. - Line Follower
 - 💡 I improve myself by working on projects.
 - 🔬 I enjoy doing research and improving myself.
