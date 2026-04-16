@@ -35,7 +35,7 @@
 
 ### 🏆 Awards & Projects
 
-- 🥇 **Robochallange** – 3st place in Line Follower 
+- 🥉 **Robochallange** – 3st place in Line Follower 
 - 🥇 **GTU KELEBEKRO** – 1st place in Line Follower
 - 🥈 **GTU KELEBEKRO** – 2st place in Line Follower
 - 🥉 **GTU KELEBEKRO** – 3st place in Line Follower
