@@ -35,10 +35,10 @@
 
 ### 🏆 Awards & Projects
 
-- 🥉 **Robochallange** – 3st place in Line Follower 
-- 🥇 **GTU KELEBEKRO** – 1st place in Line Follower
-- 🥈 **GTU KELEBEKRO** – 2st place in Line Follower
-- 🥉 **GTU KELEBEKRO** – 3st place in Line Follower
+- 🥉 **Robochallenge** – 3rd place in Line Follower 
+- 🥇 **GTU KELEBEKRO** – 1rd place in Line Follower
+- 🥈 **GTU KELEBEKRO** – 2rd place in Line Follower
+- 🥉 **GTU KELEBEKRO** – 3rd place in Line Follower
 ---
 
 ### 📫 Let's Connect
